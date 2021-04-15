@@ -1,0 +1,15 @@
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\RockPaperScissorSwitchExpression.exe
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\RockPaperScissorSwitchExpression.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\RockPaperScissorSwitchExpression.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\RockPaperScissorSwitchExpression.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\RockPaperScissorSwitchExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\ref\RockPaperScissorSwitchExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\bin\Debug\net5.0\RockPaperScissorSwitchExpression.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\ref\RockPaperScissorSwitchExpression.dll
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\RockPaperScissorSwitchExpression\RockPaperScissorSwitchExpression\obj\Debug\net5.0\RockPaperScissorSwitchExpression.genruntimeconfig.cache
